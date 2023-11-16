@@ -301,7 +301,7 @@ eval("module.exports = __webpack_require__.p + \"09d632767e98353dc6d5.gif\";\n\n
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/kurrent";
+/******/ 		__webpack_require__.p = "/kurrent/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
