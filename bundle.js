@@ -216,7 +216,7 @@ eval("module.exports = __webpack_require__.p + \"dee10ea05ded1b011e86.gif\";\n\n
   \********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"3ba93664309228d61ed2.gif\";\n\n//# sourceURL=webpack://kurrent/./assets/Metricsdemo.gif?");
+eval("module.exports = __webpack_require__.p + \"09d632767e98353dc6d5.gif\";\n\n//# sourceURL=webpack://kurrent/./assets/Metricsdemo.gif?");
 
 /***/ })
 
