@@ -8,14 +8,6 @@ const htmlPlugin = new HtmlWebPackPlugin({
 
 module.exports = {
   entry: './App.jsx', // Changed to relative path
-  devServer: {
-    host: 'localhost',
-    port: 8080,
-    static: {
-      directory: path.resolve(__dirname, 'dist'),
-      publicPath: '/',
-    },
-  },
   output: {
     path: path.resolve(__dirname, 'dist'),
     publicPath: '/',
