@@ -15,12 +15,6 @@ module.exports = {
       directory: path.resolve(__dirname, 'dist'),
       publicPath: '/',
     },
-    proxy: {
-      '/**': {
-        target: 'http://localhost:3000/',
-        changeOrigin: true,
-      },
-    },
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
