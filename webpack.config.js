@@ -10,7 +10,7 @@ module.exports = {
   entry: './App.jsx', // Changed to relative path
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/kurrent',
+    publicPath: '/kurrent/',
     filename: 'bundle.js',
   },
   mode: 'development',
